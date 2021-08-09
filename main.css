@@ -9,4 +9,7 @@
 .navbar {
     background-color: var(--primary);
     font-size: 23px;
+    position: absolute;
+    top: 0;
+    width: 100%;
 }
