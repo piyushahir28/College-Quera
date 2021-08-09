@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+}
+
+:root {
+    --primary: #ED763D;
+}
+
+.navbar {
+    background-color: var(--primary);
+    font-size: 23px;
+}
